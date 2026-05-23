@@ -1,6 +1,6 @@
-# 👋 Brian Mong'are | Full-Stack Web Developer
+# 👋 Brian Mong'are | Web Developer
 
-Welcome! I'm a passionate full-stack web developer specializing in building fast, scalable, and user-friendly web applications.
+Welcome! I'm a passionate  web developer specializing in building fast, scalable, and user-friendly web applications.
 
 ## 🚀 What I Do
 
@@ -36,7 +36,7 @@ I'm interested in projects where I can make a real impact—whether building Saa
 
 Ready to bring your project to life? Let's talk!
 
-**[Email](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)**
+**[Email](mailto:your-reachbrianmongare@gmail.com) | [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)**
 
 ---
 
