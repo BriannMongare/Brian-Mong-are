@@ -36,7 +36,7 @@ I'm interested in projects where I can make a real impact—whether building Saa
 
 Ready to bring your project to life? Let's talk!
 
-**[Email](mailto:your-reachbrianmongare@gmail.com) | [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)**
+**[Email](reachbrianmongare@gmail.com) | [LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)**
 
 ---
 
